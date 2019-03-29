@@ -1,0 +1,1 @@
+Diverses expérimentations sur les nouveautés de Java 7, 8, 9, 10 et 11 sous forme de projets Eclipse
